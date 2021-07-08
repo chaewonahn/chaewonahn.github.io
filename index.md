@@ -2,7 +2,8 @@
 layout: home
 ---
 
-# YS3272 Geographic and Demographics Methods at the Yale-NUS College.
+Welcome to the YS3272 Geographic and Demographics Methods course at the Yale-NUS College !
+
 
 ## Info
 
