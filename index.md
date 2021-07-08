@@ -8,8 +8,11 @@ Welcome to the YS3272 Geographic and Demographics Methods course at the Yale-NUS
 ## Info
 
 **Instructor:** Chaewon Ahn (c.ahn@nus.edu.sg, she/her/hers) 
+
 **Peer Instructor:** TBD 
+
 **Office Hours:** Tuesday 10:00-11:00, Wednesday 10:00-11:00 
+
 **Office Location:** TBD
 
 ## COURSE DESCRIPTION 
