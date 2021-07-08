@@ -1,36 +1,22 @@
-# Jekyll GitBook
+# YS3272 Geographic and Demographics Methods at the Yale-NUS College.
 
-Make Jelly site have a GitBook look!
+## Info
 
-## Demo
+**Instructor:** Chaewon Ahn (c.ahn@nus.edu.sg, she/her/hers) 
+**Peer Instructor:** TBD 
+**Office Hours:** Tuesday 10:00-11:00, Wednesday 10:00-11:00 
+**Office Location:** TBD
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+## COURSE DESCRIPTION 
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+First developed in the 1960s, Geographic Information Systems (GIS) are tools that are widely used for the representation and analysis of geographic data. GIS provides the ability to organize, manipulate, analyze and communicate geographic data that contain the relative geographic information (coordinates) and the associated characteristics (attributes). Nowadays, GIS has become an important analytical tool in urban planning and is becoming more accessible with the rise of open-source software and open data.
 
-## Why Jekyll with GitBook
+The YSS3273 GIS and Demographics course introduces students to the basics of GIS to equip them with the skills to answer spatial questions using QGIS. This course is renewed from the previous offerings to place an equal emphasis on skill-building and the development of a reflexive practice in using GIS. With the lectures, discussions, and hands-on exercises during lab sessions, students learn how to use GIS for spatial research, being cognizant of the histories and positions that the tools embody. The class covers data handling, projections, data joins, proximity analysis, network analysis, spatial analysis, and offers an introduction to advanced themes of web-based visualization and qualitative GIS. The class is organized into two parts. In the first part of the class, the focus is on skill-building, and in the second part, students develop their first spatial analysis project.
 
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
-
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
-
-## How to Get Started
-
-This theme can be used just as other [Jekyll themes][1].
-
-[Fork][3] this repository and add your markdown posts to the `_posts` folder.
 
 ## License
 
 This work is open sourced under the Apache License, Version 2.0.
-
 Copyright 2019 Tao He.
 
 [1]: https://pages.github.com
