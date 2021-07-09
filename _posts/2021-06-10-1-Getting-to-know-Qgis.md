@@ -2,7 +2,7 @@
 title: Getting to know Qgis
 author: Chaewon Ahn
 date: 2021-06-10
-category: Jekyll
+category: Week 1
 layout: post
 ---
 
